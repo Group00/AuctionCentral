@@ -24,4 +24,8 @@ public class AuctionCentral {
         loginFrame.setVisible(true);
     }
     
+    public static void gitTest() {
+    	// testing git push
+    }
+    
 }
